@@ -71,8 +71,5 @@ Ahmad Hassan
 ME5250 - Fall 2025  
 Northeastern University
 
-## Acknowledgments
-Project completed for ME5250 under the guidance of Prof. Whitney.
-
 ## License
 This project is for educational purposes as part of ME5250 coursework.
