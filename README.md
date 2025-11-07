@@ -38,7 +38,7 @@ The mechanism is a single-actuator driven finger with adaptive grasping capabili
 
 3. Run the main combined mechanism:
 ```matlab
-   combined_finger_mechanism.m
+   finger_mechanism.m
 ```
 
 4. Use the interactive slider to explore the mechanism's range of motion
