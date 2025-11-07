@@ -58,6 +58,8 @@ The mechanism is a single-actuator driven finger with adaptive grasping capabili
 4. **Analytical Solutions**: All kinematics solved in closed-form
 
 ## Video Demonstration
+<img width="1311" height="478" alt="image" src="https://github.com/user-attachments/assets/50a4a6da-588a-40c4-9e4d-532e9a58e399" />
+
 [View mechanism animation and analysis](https://drive.google.com/file/d/1M96xGyKvcZoVZR8mid9pmtTU457SAQWX/view?usp=sharing)
 
 ## Requirements
